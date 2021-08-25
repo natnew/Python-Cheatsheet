@@ -2,7 +2,7 @@
 ![A python cheatsheet](https://github.com/natnew/Python-Cheatsheet/blob/main/Python%20Cheatsheet.JPG)
 
 ## Contents 
-**[⬆ Functions](#Functions)** 
+**[`Functions`](#Functions)**
 
 ## Introduction
 
