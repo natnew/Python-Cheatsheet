@@ -11,6 +11,8 @@
 **[`Sets`](#Sets)** <br>
 **[`Dictionaries`](#Dictionaries)** <br>
 **[`Functions`](#Functions)** <br>
+**[`Operators`](#Operators)** <br>
+**[`Booleans`](#Booleans)** <br>
 
 ## Introduction
 
@@ -116,3 +118,19 @@ i = 6
 f()
 ```
 
+## Operators
+```python
+10 == 10
+20 != 10
+10 < 20
+30 > 20
+5 <= 4
+5 <= 6
+```
+
+## Booleans
+```python
+(9 > 7) and (7 < 8)
+(7 > 9) and (8 < 5)
+(2 == 3) or (4 == 4)
+```
